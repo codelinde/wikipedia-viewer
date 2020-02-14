@@ -1,0 +1,63 @@
+h1 {
+	font-family: 'Scope One', serif;
+	margin-top: 50px;
+	font-size: 50px;
+	letter-spacing: 1px;
+}
+
+.search-bar {
+	margin-top: 20px;
+}
+
+.form-control {
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 1px;
+}
+
+.btn {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0px;
+	color: #3a3a3a;
+}
+
+.random {
+	font-family: 'Roboto Slab', serif;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+.bs-callout {
+	padding: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 1px solid #c6c6c6;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 0.3px;
+}
+
+.bs-callout:hover {
+	background-color: #efefef;
+	transition: 0.1s;
+}
+
+.bs-callout h4 {
+	margin-top: 0;
+	margin-bottom: 5px;
+	font-family: 'Scope One', serif;
+	letter-spacing: 1px;
+	font-weight: 600;
+}
+
+.bs-callout p:last-child {
+	margin-bottom: 0;
+}
+
+.bs-callout+.bs-callout {
+	margin-top: -5px;
+}
+
+.searchResults {
+	margin-bottom: 30px;
+}
